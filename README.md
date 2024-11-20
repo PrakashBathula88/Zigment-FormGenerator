@@ -1,8 +1,8 @@
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
   <h1 align="center">🌟 Dynamic Form Generator</h1>
   
- ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/75885bba06155267d49b0e64feacfd7720795c4f/zigment%20-2.png)
- ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/75885bba06155267d49b0e64feacfd7720795c4f/zigment%20-2.png)
+ ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/900595b6225e1fdaba6f34ecdfc8cbe97fd8a774/Ziment%20First%20image.png)
+
   ## 🚀 Tech Stack
   
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; padding: 10px;">
@@ -23,7 +23,7 @@
   4. [Example JSON Schema](#example-json-schema)
   5. [Screenshots](#screenshots)
   6. [Contributors](#contributors)
-  
+   ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/75885bba06155267d49b0e64feacfd7720795c4f/zigment%20-2.png)
   ## 🌟 Features
   - **Live JSON Editor**: Update form fields in real-time using JSON.
   - **Redux Integration**: Centralized state management for form data and schema.
@@ -32,9 +32,7 @@
   - **Dark Mode**: Option to toggle between light and dark themes.
   - **Submission Handling**: Submissions stored in Redux state for demonstration.
   
-  ## 🌐 Demo
-  
-  Check out the **[Live Demo](https://example.com)** to see it in action.
+
 
   ## 🛠️ Setup Instructions
   
