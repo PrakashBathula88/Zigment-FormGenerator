@@ -1,7 +1,8 @@
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
   <h1 align="center">🌟 Dynamic Form Generator</h1>
   
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/75885bba06155267d49b0e64feacfd7720795c4f/zigment%20-2.png)
+ ![Image Alt](https://github.com/PrakashBathula88/Zigment-FormGenerator/blob/75885bba06155267d49b0e64feacfd7720795c4f/zigment%20-2.png)
   ## 🚀 Tech Stack
   
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; padding: 10px;">
